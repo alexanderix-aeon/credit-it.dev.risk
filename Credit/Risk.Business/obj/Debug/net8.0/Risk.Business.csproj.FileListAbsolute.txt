@@ -1,0 +1,15 @@
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\bin\Debug\net8.0\Risk.Business.deps.json
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\bin\Debug\net8.0\Risk.Business.dll
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\bin\Debug\net8.0\Risk.Business.pdb
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\bin\Debug\net8.0\Risk.Persistence.dll
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\bin\Debug\net8.0\Risk.Persistence.pdb
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.csproj.AssemblyReference.cache
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.AssemblyInfoInputs.cache
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.AssemblyInfo.cs
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.csproj.CoreCompileInputs.cache
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.csproj.CopyComplete
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.dll
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\obj\Debug\net8.0\refint\Risk.Business.dll
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.pdb
+C:\Users\ck_aa\source\repos\Credit\Risk.Business\obj\Debug\net8.0\ref\Risk.Business.dll

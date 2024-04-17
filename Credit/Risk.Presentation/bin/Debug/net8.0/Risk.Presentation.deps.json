@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Risk.Presentation/1.0.0": {
+        "dependencies": {
+          "Risk.Business": "1.0.0",
+          "Risk.Integrations": "1.0.0",
+          "Risk.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "Risk.Presentation.dll": {}
+        }
+      },
+      "Risk.Business/1.0.0": {
+        "dependencies": {
+          "Risk.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "Risk.Business.dll": {}
+        }
+      },
+      "Risk.Integrations/1.0.0": {
+        "dependencies": {
+          "Risk.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "Risk.Integrations.dll": {}
+        }
+      },
+      "Risk.Persistence/1.0.0": {
+        "runtime": {
+          "Risk.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Risk.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Risk.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Risk.Integrations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Risk.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

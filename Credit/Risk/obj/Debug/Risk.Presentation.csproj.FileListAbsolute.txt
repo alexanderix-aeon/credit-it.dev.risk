@@ -1,0 +1,7 @@
+C:\Users\ck_aa\source\repos\Credit\Risk\bin\Debug\Risk.exe.config
+C:\Users\ck_aa\source\repos\Credit\Risk\bin\Debug\Risk.exe
+C:\Users\ck_aa\source\repos\Credit\Risk\bin\Debug\Risk.pdb
+C:\Users\ck_aa\source\repos\Credit\Risk\obj\Debug\Risk.Presentation.csproj.AssemblyReference.cache
+C:\Users\ck_aa\source\repos\Credit\Risk\obj\Debug\Risk.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ck_aa\source\repos\Credit\Risk\obj\Debug\Risk.exe
+C:\Users\ck_aa\source\repos\Credit\Risk\obj\Debug\Risk.pdb
