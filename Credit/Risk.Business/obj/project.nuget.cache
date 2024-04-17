@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pVAYMFGOBWGSVoBligNlMC/R0B+KEk7SOWovLQTwcO3X9BtmoTeCQ0WJ4jq7sY+o541M4RzFh0xDy1fLIa/qgQ==",
+  "dgSpecHash": "vPO3Kg+DuhLSWGXGZfbnbg/A7LL3igNpvVdl9EwNCYi2+1Mo08DhNRY4jHhCx1tyA6sdX2ioRUv+t872kHSxHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ck_aa\\source\\repos\\Credit\\Risk.Business\\Risk.Business.csproj",
+  "projectFilePath": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Business\\Risk.Business.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

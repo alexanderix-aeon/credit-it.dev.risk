@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cfinu7qNI2VTt53/JMTuZRIv69J/pz7f2uk5lsp+jRerl3KNnAzcTLqjRL9hdszf5Z9V7RvuRYuMDGRK0Idpng==",
+  "dgSpecHash": "ndTguS7gfimBu7J5zQVhBmBnveC4gNY4SqLURws1WBOqywD8ZuCUYF8GDOYNWTZNAc0WjYEkCLCb+xlDLLBvEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ck_aa\\source\\repos\\Credit\\Risk.Integrations\\Risk.Integrations.csproj",
+  "projectFilePath": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Integrations\\Risk.Integrations.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

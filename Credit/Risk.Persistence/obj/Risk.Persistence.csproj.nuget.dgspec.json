@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ck_aa\\source\\repos\\Credit\\Risk.Persistence\\Risk.Persistence.csproj": {}
+    "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Persistence\\Risk.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ck_aa\\source\\repos\\Credit\\Risk.Persistence\\Risk.Persistence.csproj": {
+    "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Persistence\\Risk.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ck_aa\\source\\repos\\Credit\\Risk.Persistence\\Risk.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Persistence\\Risk.Persistence.csproj",
         "projectName": "Risk.Persistence",
-        "projectPath": "C:\\Users\\ck_aa\\source\\repos\\Credit\\Risk.Persistence\\Risk.Persistence.csproj",
+        "projectPath": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Persistence\\Risk.Persistence.csproj",
         "packagesPath": "C:\\Users\\ck_aa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ck_aa\\source\\repos\\Credit\\Risk.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
