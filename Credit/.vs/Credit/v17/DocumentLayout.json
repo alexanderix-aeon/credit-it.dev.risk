@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44CAEC28-DF48-4055-B35E-EEBF54CB295C}|Risk.Presentation\\Risk.Presentation.csproj|c:\\users\\ck_aa\\source\\repos\\credit-it.dev.risk\\credit\\risk.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CAEC28-DF48-4055-B35E-EEBF54CB295C}|Risk.Presentation\\Risk.Presentation.csproj|solutionrelative:risk.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Risk.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Presentation\\Program.cs",
+              "RelativeToolTip": "Risk.Presentation\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwDMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:43:16.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

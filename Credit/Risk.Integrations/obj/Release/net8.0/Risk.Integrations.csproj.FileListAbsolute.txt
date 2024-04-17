@@ -9,8 +9,8 @@ C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Integrations\obj\Rele
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Integrations\obj\Release\net8.0\Risk.Integrations.AssemblyInfo.cs
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Integrations\obj\Release\net8.0\Risk.Integrations.csproj.CoreCompileInputs.cache
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Integrations\obj\Release\net8.0\Risk.Integrations.sourcelink.json
-C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Integrations\obj\Release\net8.0\Risk.Integrations.csproj.CopyComplete
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Integrations\obj\Release\net8.0\Risk.Integrations.dll
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Integrations\obj\Release\net8.0\refint\Risk.Integrations.dll
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Integrations\obj\Release\net8.0\Risk.Integrations.pdb
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Integrations\obj\Release\net8.0\ref\Risk.Integrations.dll
+C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Integrations\obj\Release\net8.0\Risk.Int.F182810D.Up2Date

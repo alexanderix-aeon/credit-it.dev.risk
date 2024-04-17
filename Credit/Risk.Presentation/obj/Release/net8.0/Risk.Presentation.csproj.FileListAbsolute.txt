@@ -15,9 +15,9 @@ C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Presentation\obj\Rele
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Presentation\obj\Release\net8.0\Risk.Presentation.AssemblyInfo.cs
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Presentation\obj\Release\net8.0\Risk.Presentation.csproj.CoreCompileInputs.cache
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Presentation\obj\Release\net8.0\Risk.Presentation.sourcelink.json
-C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Presentation\obj\Release\net8.0\Risk.Presentation.csproj.CopyComplete
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Presentation\obj\Release\net8.0\Risk.Presentation.dll
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Presentation\obj\Release\net8.0\refint\Risk.Presentation.dll
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Presentation\obj\Release\net8.0\Risk.Presentation.pdb
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Presentation\obj\Release\net8.0\Risk.Presentation.genruntimeconfig.cache
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Presentation\obj\Release\net8.0\ref\Risk.Presentation.dll
+C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Presentation\obj\Release\net8.0\Risk.Pre.07D7D906.Up2Date

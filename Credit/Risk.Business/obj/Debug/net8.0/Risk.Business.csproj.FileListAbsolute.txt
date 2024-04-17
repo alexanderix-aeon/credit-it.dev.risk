@@ -24,8 +24,8 @@ C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Business\obj\Debug\ne
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.AssemblyInfo.cs
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.csproj.CoreCompileInputs.cache
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.sourcelink.json
-C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.csproj.CopyComplete
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.dll
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Business\obj\Debug\net8.0\refint\Risk.Business.dll
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Business\obj\Debug\net8.0\Risk.Business.pdb
 C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Business\obj\Debug\net8.0\ref\Risk.Business.dll
+C:\Users\ck_aa\source\repos\credit-it.dev.risk\Credit\Risk.Business\obj\Debug\net8.0\Risk.Bus.8A76977B.Up2Date
