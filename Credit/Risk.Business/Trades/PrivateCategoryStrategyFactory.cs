@@ -5,16 +5,15 @@ namespace Risk.Business
     /// <summary>
     /// Factory to create and manage trade categorization strategies.
     /// </summary>
-    public class TradeCategoryStrategyFactory : ITradeCategoryStrategyFactory
+    public class PrivateCategoryStrategyFactory : ITradeCategoryStrategyFactory
     {
         private readonly Dictionary<string, ITradeCategoryStrategy> _strategies;
 
-        public TradeCategoryStrategyFactory()
+        public PrivateCategoryStrategyFactory()
         {
             _strategies = new Dictionary<string, ITradeCategoryStrategy>();
 
             // Inicialize with default strategies.
-            AddStrategy(new PepRiskStrategy());
             AddStrategy(new ExpiredStrategy());
             AddStrategy(new MediumRiskStrategy());
             AddStrategy(new HighRiskStrategy());

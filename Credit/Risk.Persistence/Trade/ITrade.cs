@@ -24,5 +24,10 @@
         /// The next pending payment date involved in the negotiation.
         /// </value>
         DateTime NextPaymentDate { get; }
+
+        /// <value>
+        /// The next pending payment date involved in the negotiation.
+        /// </value>
+        Boolean PoliitcalExpose { get; }
     }
 }

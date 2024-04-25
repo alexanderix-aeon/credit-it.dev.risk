@@ -17,6 +17,17 @@ namespace Risk.Presentation
 
             while (true)
             {
+                Boolean political = false;
+
+                int dapartment = 0;
+                Console.WriteLine("Please, inform the number of department of portfolio (integer number > 0):");
+                if (!int.TryParse(Console.ReadLine(), out dapartment) || dapartment < 0)
+                {
+                    Console.WriteLine("Invalid number format.");
+                    continue;
+                }
+                Console.WriteLine();
+
                 DateTime referenceDate;
                 Console.WriteLine("Please, inform the reference date in format (mm/dd/yyyy):");
                 if (!DateTime.TryParseExact(Console.ReadLine(), "MM/dd/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out referenceDate))
@@ -39,11 +50,11 @@ namespace Risk.Presentation
 
                 for (int i = 0; i < n; i++)
                 {
-                    Console.WriteLine($"Please, inform the data, separated by a space, for trade {i + 1} (Value Sector Date(mm/dd/yyyy)):");
+                    Console.WriteLine($"Please, inform the data, separated by a space, for trade {i + 1} (Value Sector Date(mm/dd/yyyy) Political Expose(true/false)):");
                     string line = Console.ReadLine();
                     string[] parts = line.Split(' ');
 
-                    if (parts.Length != 3)
+                    if (parts.Length != 4)
                     {
                         Console.WriteLine("Invalid data format.");
                         break;
@@ -66,10 +77,27 @@ namespace Risk.Presentation
                     }
                     Console.WriteLine();
 
-                    portfolio.Add(new Trade { Value = value, ClientSector = parts[1], NextPaymentDate = nextPaymentDate, ReferenceDate = referenceDate });
+                    if (!bool.TryParse(parts[3], out political))
+                    {
+                        Console.WriteLine("Invalid date format.");
+                        break;
+                    }
+                    Console.WriteLine();
+
+                    portfolio.Add(new Trade { Value = value, ClientSector = parts[1], NextPaymentDate = nextPaymentDate, ReferenceDate = referenceDate, PoliitcalExpose = political });
                 }
 
-                TradeCategoryStrategyFactory factory = new TradeCategoryStrategyFactory();
+                ITradeCategoryStrategyFactory factory;
+
+                if (dapartment == 5)
+                {
+                    factory = new PrivateCategoryStrategyFactory();
+                }
+                else
+                {
+                    factory = new TradeCategoryStrategyFactory();
+                }
+
                 TradeCategorizer categorizer = new TradeCategorizer(factory);
 
                 List<string> tradeCategories = categorizer.CategorizeTrades(portfolio);

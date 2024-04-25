@@ -26,5 +26,10 @@ namespace Risk.Integrations
         /// The date of the pending payment involved in the negotiation.
         /// </summary>
         public required DateTime NextPaymentDate { get; set; }
+
+        /// <summary>
+        /// The date of the pending payment involved in the negotiation.
+        /// </summary>
+        public required Boolean PoliitcalExpose { get; set; }
     }
 }

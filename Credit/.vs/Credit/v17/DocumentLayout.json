@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{44CAEC28-DF48-4055-B35E-EEBF54CB295C}|Risk.Presentation\\Risk.Presentation.csproj|c:\\users\\ck_aa\\source\\repos\\credit-it.dev.risk\\credit\\risk.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CAEC28-DF48-4055-B35E-EEBF54CB295C}|Risk.Presentation\\Risk.Presentation.csproj|solutionrelative:risk.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE3E847-6117-4944-B2F5-3066B1062D5D}|Risk.Business\\Risk.Business.csproj|c:\\users\\ck_aa\\source\\repos\\credit-it.dev.risk\\credit\\risk.business\\trades\\tradecategorizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE3E847-6117-4944-B2F5-3066B1062D5D}|Risk.Business\\Risk.Business.csproj|solutionrelative:risk.business\\trades\\tradecategorizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE3E847-6117-4944-B2F5-3066B1062D5D}|Risk.Business\\Risk.Business.csproj|c:\\users\\ck_aa\\source\\repos\\credit-it.dev.risk\\credit\\risk.business\\trades\\tradecategorystrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE3E847-6117-4944-B2F5-3066B1062D5D}|Risk.Business\\Risk.Business.csproj|solutionrelative:risk.business\\trades\\tradecategorystrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE3E847-6117-4944-B2F5-3066B1062D5D}|Risk.Business\\Risk.Business.csproj|c:\\users\\ck_aa\\source\\repos\\credit-it.dev.risk\\credit\\risk.business\\categories\\itradecategorystrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE3E847-6117-4944-B2F5-3066B1062D5D}|Risk.Business\\Risk.Business.csproj|solutionrelative:risk.business\\categories\\itradecategorystrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE3E847-6117-4944-B2F5-3066B1062D5D}|Risk.Business\\Risk.Business.csproj|c:\\users\\ck_aa\\source\\repos\\credit-it.dev.risk\\credit\\risk.business\\trades\\privatecategorystrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE3E847-6117-4944-B2F5-3066B1062D5D}|Risk.Business\\Risk.Business.csproj|solutionrelative:risk.business\\trades\\privatecategorystrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITradeCategoryStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Business\\Categories\\ITradeCategoryStrategyFactory.cs",
+              "RelativeDocumentMoniker": "Risk.Business\\Categories\\ITradeCategoryStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Business\\Categories\\ITradeCategoryStrategyFactory.cs",
+              "RelativeToolTip": "Risk.Business\\Categories\\ITradeCategoryStrategyFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:33:25.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradeCategoryStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Business\\Trades\\TradeCategoryStrategyFactory.cs",
+              "RelativeDocumentMoniker": "Risk.Business\\Trades\\TradeCategoryStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Business\\Trades\\TradeCategoryStrategyFactory.cs",
+              "RelativeToolTip": "Risk.Business\\Trades\\TradeCategoryStrategyFactory.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:17:17.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrivateCategoryStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Business\\Trades\\PrivateCategoryStrategyFactory.cs",
+              "RelativeDocumentMoniker": "Risk.Business\\Trades\\PrivateCategoryStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Business\\Trades\\PrivateCategoryStrategyFactory.cs",
+              "RelativeToolTip": "Risk.Business\\Trades\\PrivateCategoryStrategyFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:16:35.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradeCategorizer.cs",
+              "DocumentMoniker": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Business\\Trades\\TradeCategorizer.cs",
+              "RelativeDocumentMoniker": "Risk.Business\\Trades\\TradeCategorizer.cs",
+              "ToolTip": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Business\\Trades\\TradeCategorizer.cs",
+              "RelativeToolTip": "Risk.Business\\Trades\\TradeCategorizer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:07:26.183Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "Risk.Presentation\\Program.cs",
               "ToolTip": "C:\\Users\\ck_aa\\source\\repos\\credit-it.dev.risk\\Credit\\Risk.Presentation\\Program.cs",
               "RelativeToolTip": "Risk.Presentation\\Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAwwDsAAAAhAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T19:43:16.677Z",
               "EditorCaption": ""

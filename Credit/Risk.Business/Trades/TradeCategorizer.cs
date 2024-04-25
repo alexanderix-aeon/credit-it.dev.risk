@@ -7,12 +7,12 @@ namespace Risk.Business
     /// </summary>
     public class TradeCategorizer
     {
-        private readonly TradeCategoryStrategyFactory _strategyFactory;
+        private readonly ITradeCategoryStrategyFactory _strategyFactory;
 
         /// <summary>
         /// Initializes a new instance of the trade categorizer.
         /// </summary>
-        public TradeCategorizer(TradeCategoryStrategyFactory strategyFactory)
+        public TradeCategorizer(ITradeCategoryStrategyFactory strategyFactory)
         {
             _strategyFactory = strategyFactory ?? throw new ArgumentNullException(nameof(strategyFactory));
         }

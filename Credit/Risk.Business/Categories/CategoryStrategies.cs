@@ -55,4 +55,22 @@ namespace Risk.Business
         /// <returns></returns>
         public bool IsMatch(ITrade trade) => (trade.ReferenceDate - trade.NextPaymentDate).TotalDays <= 30 && trade.Value > 1_000_000 && trade.ClientSector == "Public";
     }
+    
+    /// <summary>
+    /// Represents the category strategy with the validation of its rule.
+    /// </summary>
+    public class PepRiskStrategy : ITradeCategoryStrategy
+    {
+        /// <summary>
+        /// Describes the risk category
+        /// </summary>
+        public string Category => "PEPRISK";
+
+        /// <summary>
+        /// Describes the risk category strategy.
+        /// </summary>
+        /// <param name="trade">The trade operation to be evaluated.</param>
+        /// <returns></returns>
+        public bool IsMatch(ITrade trade) => trade.PoliitcalExpose;
+    }
 }
